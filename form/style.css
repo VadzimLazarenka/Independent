@@ -3,7 +3,7 @@
     height: 250px;
     border: solid 2px black;
     border-radius: 5px;
-    background-color: rgb(235, 255, 219);
+    background-color: rgb(255, 255, 255);
     padding: 3em;
 }
 
@@ -21,9 +21,9 @@ h1 {
     height: 70%;
     overflow: auto;
     padding: 0.5em 3.5em 0.5em 0.5em;
-    background-color: rgb(173, 255, 188);
+    background-color: rgb(173, 204, 255);
     border-radius: 5px;
-    border: double .5em rgba(0, 102, 255, .1);
+    border: double .9em rgba(29, 30, 32, 0.1);
     padding: 0.1em;
     background-clip: content-box;
 }
